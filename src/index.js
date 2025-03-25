@@ -4,11 +4,16 @@ import './index.css'
 import App from './App'
 import { BrowserRouter } from 'react-router-dom'
 import reportWebVitals from './reportWebVitals'
+import { createBrowserHistory } from 'history'
+
+const history = createBrowserHistory({
+  basename: '/portfolioWebsite', // Set the base path to "/portfolioWebsite"
+})
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter history={history}>
       <App />
     </BrowserRouter>
   </React.StrictMode>
