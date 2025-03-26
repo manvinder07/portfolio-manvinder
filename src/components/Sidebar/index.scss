@@ -84,8 +84,11 @@
             }
         }
 
-        // this is where portfolio would go same thing as about-link (Content PORTFOLIO)
-
+        a.portfolio-link {
+            &:after {
+                content: 'MORE';
+            }
+        }
 
         a.active {
             svg {

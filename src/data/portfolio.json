@@ -1,0 +1,10 @@
+{
+    "portfolio": [
+        {
+            "cover": "portfolio-manvinder/portfolio/eth-wallet/eth-cover.png",
+            "title": "ETH Wallet Tracker",
+            "description": "React, Javascript, HTML, CSS, API",
+            "url": "https://manvinder07.github.io/wallet-tracker/"
+        }
+    ]
+}
