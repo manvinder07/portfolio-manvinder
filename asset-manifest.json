@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-manvinder/static/css/main.51a892a4.css",
-    "main.js": "/portfolio-manvinder/static/js/main.fe8f73f1.js",
+    "main.css": "/portfolio-manvinder/static/css/main.d20cf83e.css",
+    "main.js": "/portfolio-manvinder/static/js/main.53dfc426.js",
     "static/js/453.b3faef14.chunk.js": "/portfolio-manvinder/static/js/453.b3faef14.chunk.js",
     "static/media/letter-m.png": "/portfolio-manvinder/static/media/letter-m.92b3267823940d7a42d5.png",
     "static/media/helvetica-neu.ttf": "/portfolio-manvinder/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -10,12 +10,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/portfolio-manvinder/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/portfolio-manvinder/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portfolio-manvinder/index.html",
-    "main.51a892a4.css.map": "/portfolio-manvinder/static/css/main.51a892a4.css.map",
-    "main.fe8f73f1.js.map": "/portfolio-manvinder/static/js/main.fe8f73f1.js.map",
+    "main.d20cf83e.css.map": "/portfolio-manvinder/static/css/main.d20cf83e.css.map",
+    "main.53dfc426.js.map": "/portfolio-manvinder/static/js/main.53dfc426.js.map",
     "453.b3faef14.chunk.js.map": "/portfolio-manvinder/static/js/453.b3faef14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51a892a4.css",
-    "static/js/main.fe8f73f1.js"
+    "static/css/main.d20cf83e.css",
+    "static/js/main.53dfc426.js"
   ]
 }
