@@ -5,6 +5,12 @@
             "title": "ETH Wallet Tracker",
             "description": "React, Javascript, HTML, CSS, API",
             "url": "https://manvinder07.github.io/wallet-tracker/"
+        },
+        {
+            "cover": "portfolio/mav-marketplace/mav-market.png",
+            "title": "Mav Marketplace",
+            "description": "React, Node.js, Express, API",
+            "url": "https://marketplace-frontend-ochre.vercel.app/"
         }
     ]
 }
