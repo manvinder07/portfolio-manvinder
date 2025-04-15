@@ -11,6 +11,12 @@
             "title": "Mav Marketplace",
             "description": "React, Node.js, Express, API",
             "url": "https://marketplace-frontend-ochre.vercel.app/"
+        },
+        {   
+            "cover": "portfolio/manv-media/manvmedia.png",
+            "title": "Manv Media",
+            "description": "Framer, AI",
+            "url": "https://manvmedia.framer.website/ca-en/"
         }
     ]
 }
