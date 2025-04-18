@@ -61,8 +61,8 @@ const About = () => {
             />
           </h2>
           <h3>UBC Student Housing & Community Services</h3>
-          <h4>Full Stack Software Engineer</h4>
-          <h4>May 2022 - Current</h4>
+          <h4>Programmer Analyst</h4>
+          <h4>May 2022 - May 2024</h4>
           <ul class="experience-list">
             <li>
               Automated repetitive workflows using PHP and SQL, reducing manual
