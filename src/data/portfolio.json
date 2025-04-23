@@ -17,6 +17,12 @@
             "title": "Manv Media",
             "description": "Framer, AI",
             "url": "https://manvmedia.framer.website/ca-en/"
+        },
+        {
+            "cover": "portfolio/new-marketplace/new-market.png",
+            "title": "Marketplace 2.0",
+            "description": "React, Next.js, Clerk Auth, MongoDB, Inngest Cloud",
+            "url": "https://mav-marketplace-new.vercel.app/"
         }
     ]
 }
