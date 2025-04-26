@@ -23,6 +23,12 @@
             "title": "Marketplace 2.0",
             "description": "React, Next.js, Clerk Auth, MongoDB, Inngest Cloud",
             "url": "https://mav-marketplace-new.vercel.app/"
+        },
+        {
+            "cover": "portfolio/mavflix/mavflix-preview.png",
+            "title": "Mavflix Movies",
+            "description": "React, API, Tailwind CSS, Appwrite",
+            "url": "https://mavflix.vercel.app/"
         }
     ]
 }
